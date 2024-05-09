@@ -1,0 +1,793 @@
+Region,Sex,Year,Lower,Median,Upper
+Sub-Saharan Africa,Female,1990,239844,265499,283524
+Sub-Saharan Africa,Female,1991,245076,265951,282639
+Sub-Saharan Africa,Female,1992,251926,269752,285585
+Sub-Saharan Africa,Female,1993,258913,274365,289494
+Sub-Saharan Africa,Female,1994,294207,311050,330745
+Sub-Saharan Africa,Female,1995,257574,269947,283722
+Sub-Saharan Africa,Female,1996,258590,269966,283297
+Sub-Saharan Africa,Female,1997,259751,270417,283306
+Sub-Saharan Africa,Female,1998,258395,268641,281048
+Sub-Saharan Africa,Female,1999,256477,266304,278380
+Sub-Saharan Africa,Female,2000,254547,264126,276090
+Sub-Saharan Africa,Female,2001,252833,262036,273776
+Sub-Saharan Africa,Female,2002,250626,259682,271207
+Sub-Saharan Africa,Female,2003,248110,257069,268546
+Sub-Saharan Africa,Female,2004,245273,254092,265457
+Sub-Saharan Africa,Female,2005,242254,251081,262370
+Sub-Saharan Africa,Female,2006,239146,248003,259072
+Sub-Saharan Africa,Female,2007,235989,244793,255631
+Sub-Saharan Africa,Female,2008,233670,242755,253670
+Sub-Saharan Africa,Female,2009,230033,239264,250381
+Sub-Saharan Africa,Female,2010,227932,237537,248990
+Sub-Saharan Africa,Female,2011,225407,235427,247356
+Sub-Saharan Africa,Female,2012,222126,232863,245322
+Sub-Saharan Africa,Female,2013,220137,231614,244849
+Sub-Saharan Africa,Female,2014,218303,230854,245321
+Sub-Saharan Africa,Female,2015,216020,230032,245673
+Sub-Saharan Africa,Female,2016,214011,229105,246248
+Sub-Saharan Africa,Female,2017,211846,228433,247022
+Sub-Saharan Africa,Female,2018,209925,227819,248029
+Sub-Saharan Africa,Female,2019,208092,227471,249507
+Sub-Saharan Africa,Female,2020,205189,226241,250631
+Sub-Saharan Africa,Female,2021,202202,224931,251804
+Sub-Saharan Africa,Female,2022,199059,223487,253460
+Sub-Saharan Africa,Male,1990,256996,284339,303295
+Sub-Saharan Africa,Male,1991,263195,285342,302724
+Sub-Saharan Africa,Male,1992,271186,289839,306503
+Sub-Saharan Africa,Male,1993,279463,295724,311733
+Sub-Saharan Africa,Male,1994,314881,331920,351805
+Sub-Saharan Africa,Male,1995,277249,290162,304830
+Sub-Saharan Africa,Male,1996,277791,289732,303682
+Sub-Saharan Africa,Male,1997,278120,289407,302872
+Sub-Saharan Africa,Male,1998,276452,287029,300213
+Sub-Saharan Africa,Male,1999,273782,283887,296509
+Sub-Saharan Africa,Male,2000,271024,280857,293321
+Sub-Saharan Africa,Male,2001,268527,278163,290335
+Sub-Saharan Africa,Male,2002,265891,275453,287524
+Sub-Saharan Africa,Male,2003,263377,272723,284663
+Sub-Saharan Africa,Male,2004,260390,269753,281624
+Sub-Saharan Africa,Male,2005,257690,266956,278865
+Sub-Saharan Africa,Male,2006,254815,264265,275980
+Sub-Saharan Africa,Male,2007,252222,261666,273319
+Sub-Saharan Africa,Male,2008,250198,259843,271616
+Sub-Saharan Africa,Male,2009,246911,256752,268471
+Sub-Saharan Africa,Male,2010,245184,255533,267756
+Sub-Saharan Africa,Male,2011,243091,253933,266501
+Sub-Saharan Africa,Male,2012,240427,252118,265385
+Sub-Saharan Africa,Male,2013,238951,251793,266220
+Sub-Saharan Africa,Male,2014,238000,252105,267849
+Sub-Saharan Africa,Male,2015,236943,252371,269474
+Sub-Saharan Africa,Male,2016,235449,252691,271549
+Sub-Saharan Africa,Male,2017,234276,253151,273924
+Sub-Saharan Africa,Male,2018,232719,253396,276375
+Sub-Saharan Africa,Male,2019,231457,253707,278792
+Sub-Saharan Africa,Male,2020,229334,253226,280826
+Sub-Saharan Africa,Male,2021,227130,252582,283698
+Sub-Saharan Africa,Male,2022,224845,251941,286364
+West and Central Africa,Female,1990,110663,125418,136911
+West and Central Africa,Female,1991,112640,125954,136723
+West and Central Africa,Female,1992,115192,126549,136937
+West and Central Africa,Female,1993,116987,127118,137155
+West and Central Africa,Female,1994,118466,127521,136985
+West and Central Africa,Female,1995,119737,128066,137298
+West and Central Africa,Female,1996,120722,128492,137369
+West and Central Africa,Female,1997,121676,129058,137732
+West and Central Africa,Female,1998,122266,129420,137751
+West and Central Africa,Female,1999,122904,129831,137891
+West and Central Africa,Female,2000,123704,130477,138363
+West and Central Africa,Female,2001,124574,131209,138965
+West and Central Africa,Female,2002,125243,131826,139581
+West and Central Africa,Female,2003,125723,132336,140131
+West and Central Africa,Female,2004,125846,132543,140317
+West and Central Africa,Female,2005,126293,132990,140892
+West and Central Africa,Female,2006,126586,133525,141450
+West and Central Africa,Female,2007,127118,134135,142261
+West and Central Africa,Female,2008,127754,135116,143482
+West and Central Africa,Female,2009,128517,136079,144708
+West and Central Africa,Female,2010,129110,137020,146009
+West and Central Africa,Female,2011,129676,138003,147569
+West and Central Africa,Female,2012,130359,139119,149322
+West and Central Africa,Female,2013,130825,140245,151138
+West and Central Africa,Female,2014,131548,141533,153312
+West and Central Africa,Female,2015,131835,142627,155459
+West and Central Africa,Female,2016,131529,143256,157254
+West and Central Africa,Female,2017,131096,143948,159233
+West and Central Africa,Female,2018,130228,144429,161200
+West and Central Africa,Female,2019,129434,144966,163289
+West and Central Africa,Female,2020,127624,144513,164757
+West and Central Africa,Female,2021,125544,143991,166672
+West and Central Africa,Female,2022,123292,143372,168078
+West and Central Africa,Male,1990,116470,132060,143907
+West and Central Africa,Male,1991,119102,132846,144070
+West and Central Africa,Male,1992,121755,133665,144247
+West and Central Africa,Male,1993,123821,134359,144384
+West and Central Africa,Male,1994,125585,134923,144552
+West and Central Africa,Male,1995,127124,135735,145186
+West and Central Africa,Male,1996,128373,136409,145506
+West and Central Africa,Male,1997,129592,137135,145995
+West and Central Africa,Male,1998,130610,137883,146483
+West and Central Africa,Male,1999,131400,138433,146921
+West and Central Africa,Male,2000,132064,138877,147103
+West and Central Africa,Male,2001,132657,139500,147632
+West and Central Africa,Male,2002,133305,140115,148104
+West and Central Africa,Male,2003,133828,140691,148605
+West and Central Africa,Male,2004,134205,141169,149201
+West and Central Africa,Male,2005,134730,141866,149987
+West and Central Africa,Male,2006,135478,142806,151212
+West and Central Africa,Male,2007,136363,143857,152472
+West and Central Africa,Male,2008,137059,144760,153611
+West and Central Africa,Male,2009,137642,145751,154939
+West and Central Africa,Male,2010,138144,146779,156543
+West and Central Africa,Male,2011,138681,147788,158058
+West and Central Africa,Male,2012,139260,149050,160054
+West and Central Africa,Male,2013,140022,150452,162400
+West and Central Africa,Male,2014,140950,152085,165164
+West and Central Africa,Male,2015,141438,153508,167713
+West and Central Africa,Male,2016,141723,154742,170048
+West and Central Africa,Male,2017,141859,155961,172906
+West and Central Africa,Male,2018,141178,156766,175263
+West and Central Africa,Male,2019,140562,157550,177658
+West and Central Africa,Male,2020,139006,157479,179678
+West and Central Africa,Male,2021,136922,157252,181859
+West and Central Africa,Male,2022,135104,157017,184099
+Eastern and Southern Africa,Female,1990,123172,140081,153066
+Eastern and Southern Africa,Female,1991,126400,139997,151765
+Eastern and Southern Africa,Female,1992,131829,143203,154496
+Eastern and Southern Africa,Female,1993,137153,147247,158139
+Eastern and Southern Africa,Female,1994,170265,183529,200025
+Eastern and Southern Africa,Female,1995,133561,141881,151659
+Eastern and Southern Africa,Female,1996,133793,141474,150772
+Eastern and Southern Africa,Female,1997,133928,141359,150410
+Eastern and Southern Africa,Female,1998,132076,139221,147941
+Eastern and Southern Africa,Female,1999,129454,136473,144872
+Eastern and Southern Africa,Female,2000,126840,133649,141975
+Eastern and Southern Africa,Female,2001,124275,130827,139085
+Eastern and Southern Africa,Female,2002,121413,127856,135931
+Eastern and Southern Africa,Female,2003,118357,124733,132744
+Eastern and Southern Africa,Female,2004,115328,121549,129438
+Eastern and Southern Africa,Female,2005,112035,118091,125738
+Eastern and Southern Africa,Female,2006,108512,114478,121818
+Eastern and Southern Africa,Female,2007,104784,110658,117752
+Eastern and Southern Africa,Female,2008,101867,107639,114474
+Eastern and Southern Africa,Female,2009,97492,103185,109849
+Eastern and Southern Africa,Female,2010,94778,100517,107223
+Eastern and Southern Africa,Female,2011,91480,97424,104193
+Eastern and Southern Africa,Female,2012,87541,93744,100575
+Eastern and Southern Africa,Female,2013,84403,91369,98458
+Eastern and Southern Africa,Female,2014,81269,89321,96967
+Eastern and Southern Africa,Female,2015,78216,87405,95777
+Eastern and Southern Africa,Female,2016,75342,85849,94977
+Eastern and Southern Africa,Female,2017,73230,84485,94358
+Eastern and Southern Africa,Female,2018,71745,83390,94109
+Eastern and Southern Africa,Female,2019,70354,82505,93824
+Eastern and Southern Africa,Female,2020,69087,81728,94016
+Eastern and Southern Africa,Female,2021,68069,80940,94385
+Eastern and Southern Africa,Female,2022,66996,80115,94504
+Eastern and Southern Africa,Male,1990,134277,152279,166135
+Eastern and Southern Africa,Male,1991,137911,152496,165138
+Eastern and Southern Africa,Male,1992,143959,156174,168254
+Eastern and Southern Africa,Male,1993,150604,161365,173028
+Eastern and Southern Africa,Male,1994,183765,196997,213572
+Eastern and Southern Africa,Male,1995,145457,154427,165122
+Eastern and Southern Africa,Male,1996,144953,153323,163507
+Eastern and Southern Africa,Male,1997,144331,152272,162087
+Eastern and Southern Africa,Male,1998,141449,149146,158693
+Eastern and Southern Africa,Male,1999,137958,145454,154634
+Eastern and Southern Africa,Male,2000,134811,141980,150921
+Eastern and Southern Africa,Male,2001,131656,138663,147471
+Eastern and Southern Africa,Male,2002,128474,135338,144056
+Eastern and Southern Africa,Male,2003,125343,132032,140563
+Eastern and Southern Africa,Male,2004,121988,128584,137155
+Eastern and Southern Africa,Male,2005,118687,125090,133322
+Eastern and Southern Africa,Male,2006,115210,121459,129503
+Eastern and Southern Africa,Male,2007,111638,117809,125365
+Eastern and Southern Africa,Male,2008,108958,115083,122248
+Eastern and Southern Africa,Male,2009,104986,111001,117919
+Eastern and Southern Africa,Male,2010,102522,108754,115799
+Eastern and Southern Africa,Male,2011,99671,106145,113330
+Eastern and Southern Africa,Male,2012,96117,103068,110346
+Eastern and Southern Africa,Male,2013,93580,101341,109219
+Eastern and Southern Africa,Male,2014,91038,100020,108745
+Eastern and Southern Africa,Male,2015,88191,98863,108692
+Eastern and Southern Africa,Male,2016,85992,97949,108885
+Eastern and Southern Africa,Male,2017,84016,97190,109203
+Eastern and Southern Africa,Male,2018,82811,96630,109831
+Eastern and Southern Africa,Male,2019,81558,96157,110598
+Eastern and Southern Africa,Male,2020,80890,95747,111301
+Eastern and Southern Africa,Male,2021,80041,95330,112270
+Eastern and Southern Africa,Male,2022,79186,94924,113157
+Middle East and North Africa,Female,1990,31704,33916,36790
+Middle East and North Africa,Female,1991,25910,27319,29048
+Middle East and North Africa,Female,1992,24990,26330,27958
+Middle East and North Africa,Female,1993,24130,25409,26943
+Middle East and North Africa,Female,1994,23323,24539,25982
+Middle East and North Africa,Female,1995,22547,23682,25041
+Middle East and North Africa,Female,1996,21811,22892,24152
+Middle East and North Africa,Female,1997,21087,22075,23263
+Middle East and North Africa,Female,1998,20326,21263,22359
+Middle East and North Africa,Female,1999,19562,20460,21485
+Middle East and North Africa,Female,2000,18801,19650,20613
+Middle East and North Africa,Female,2001,18022,18829,19751
+Middle East and North Africa,Female,2002,17262,18051,18924
+Middle East and North Africa,Female,2003,19466,20371,21391
+Middle East and North Africa,Female,2004,16053,16811,17639
+Middle East and North Africa,Female,2005,15651,16418,17236
+Middle East and North Africa,Female,2006,15361,16134,16956
+Middle East and North Africa,Female,2007,15092,15873,16697
+Middle East and North Africa,Female,2008,14883,15667,16509
+Middle East and North Africa,Female,2009,14772,15571,16445
+Middle East and North Africa,Female,2010,14641,15460,16407
+Middle East and North Africa,Female,2011,15181,16063,17121
+Middle East and North Africa,Female,2012,17548,18499,19698
+Middle East and North Africa,Female,2013,17973,19023,20455
+Middle East and North Africa,Female,2014,17531,18659,20310
+Middle East and North Africa,Female,2015,17382,18643,20524
+Middle East and North Africa,Female,2016,16039,17299,19302
+Middle East and North Africa,Female,2017,16130,17511,19759
+Middle East and North Africa,Female,2018,16447,18051,20613
+Middle East and North Africa,Female,2019,14714,16224,18800
+Middle East and North Africa,Female,2020,13714,15230,17925
+Middle East and North Africa,Female,2021,13717,15432,18511
+Middle East and North Africa,Female,2022,13015,14782,18006
+Middle East and North Africa,Male,1990,38144,40722,43872
+Middle East and North Africa,Male,1991,33563,35484,37768
+Middle East and North Africa,Male,1992,32843,34671,36810
+Middle East and North Africa,Male,1993,32114,33849,35899
+Middle East and North Africa,Male,1994,31395,33060,35001
+Middle East and North Africa,Male,1995,30620,32199,34045
+Middle East and North Africa,Male,1996,29860,31339,33076
+Middle East and North Africa,Male,1997,29109,30490,32116
+Middle East and North Africa,Male,1998,28288,29571,31054
+Middle East and North Africa,Male,1999,27383,28605,29982
+Middle East and North Africa,Male,2000,26408,27587,28888
+Middle East and North Africa,Male,2001,25463,26586,27817
+Middle East and North Africa,Male,2002,24575,25642,26815
+Middle East and North Africa,Male,2003,26000,27148,28389
+Middle East and North Africa,Male,2004,23088,24137,25248
+Middle East and North Africa,Male,2005,22605,23658,24762
+Middle East and North Africa,Male,2006,22309,23373,24498
+Middle East and North Africa,Male,2007,22060,23133,24278
+Middle East and North Africa,Male,2008,21821,22916,24072
+Middle East and North Africa,Male,2009,21699,22824,24058
+Middle East and North Africa,Male,2010,21537,22710,24021
+Middle East and North Africa,Male,2011,22106,23371,24867
+Middle East and North Africa,Male,2012,24568,25905,27626
+Middle East and North Africa,Male,2013,24979,26451,28478
+Middle East and North Africa,Male,2014,24498,26084,28406
+Middle East and North Africa,Male,2015,24340,26097,28753
+Middle East and North Africa,Male,2016,22920,24688,27551
+Middle East and North Africa,Male,2017,22977,24923,28151
+Middle East and North Africa,Male,2018,23272,25507,29128
+Middle East and North Africa,Male,2019,21409,23565,27265
+Middle East and North Africa,Male,2020,20297,22502,26440
+Middle East and North Africa,Male,2021,20199,22650,27084
+Middle East and North Africa,Male,2022,19355,21888,26645
+South Asia,Female,1990,276764,289726,303589
+South Asia,Female,1991,295412,308617,322743
+South Asia,Female,1992,271723,283693,296457
+South Asia,Female,1993,269297,280894,293500
+South Asia,Female,1994,265619,277098,289204
+South Asia,Female,1995,261040,272104,284231
+South Asia,Female,1996,254805,265675,277673
+South Asia,Female,1997,246267,257133,268784
+South Asia,Female,1998,236933,247566,259217
+South Asia,Female,1999,225381,235669,247008
+South Asia,Female,2000,215168,225212,236260
+South Asia,Female,2001,206092,215864,226552
+South Asia,Female,2002,197882,207517,217998
+South Asia,Female,2003,190976,200491,210790
+South Asia,Female,2004,187416,196770,206646
+South Asia,Female,2005,187569,197043,207206
+South Asia,Female,2006,172555,181410,190889
+South Asia,Female,2007,165623,174192,183719
+South Asia,Female,2008,157638,166059,175251
+South Asia,Female,2009,149549,157762,166994
+South Asia,Female,2010,139438,147376,156443
+South Asia,Female,2011,130243,137881,146932
+South Asia,Female,2012,121485,128857,137882
+South Asia,Female,2013,112985,120312,129538
+South Asia,Female,2014,104880,112258,121954
+South Asia,Female,2015,98325,105784,116041
+South Asia,Female,2016,90365,97997,109014
+South Asia,Female,2017,83940,91922,103517
+South Asia,Female,2018,78059,86347,98796
+South Asia,Female,2019,72298,81086,94195
+South Asia,Female,2020,66977,76476,90633
+South Asia,Female,2021,62188,72518,87352
+South Asia,Female,2022,58443,69340,85402
+South Asia,Male,1990,277753,290969,305177
+South Asia,Male,1991,295000,308546,322959
+South Asia,Male,1992,270906,283191,296401
+South Asia,Male,1993,267366,279555,292302
+South Asia,Male,1994,263669,275628,288489
+South Asia,Male,1995,258789,270669,283175
+South Asia,Male,1996,252955,264439,276807
+South Asia,Male,1997,246121,257257,269463
+South Asia,Male,1998,239089,249907,261736
+South Asia,Male,1999,230233,240945,252534
+South Asia,Male,2000,223307,233892,245203
+South Asia,Male,2001,217121,227501,238757
+South Asia,Male,2002,211569,222008,233061
+South Asia,Male,2003,206977,217125,228127
+South Asia,Male,2004,205202,215089,225795
+South Asia,Male,2005,205805,215652,226316
+South Asia,Male,2006,194049,203443,213686
+South Asia,Male,2007,189018,198271,208336
+South Asia,Male,2008,182996,192073,202242
+South Asia,Male,2009,176911,185849,195804
+South Asia,Male,2010,168738,177431,187190
+South Asia,Male,2011,160851,169343,179150
+South Asia,Male,2012,152583,161005,170988
+South Asia,Male,2013,144249,152704,162933
+South Asia,Male,2014,136248,144708,155614
+South Asia,Male,2015,129244,138030,149594
+South Asia,Male,2016,120983,130068,142679
+South Asia,Male,2017,113570,123045,136788
+South Asia,Male,2018,106113,116086,130885
+South Asia,Male,2019,98931,109643,125381
+South Asia,Male,2020,91913,103624,120575
+South Asia,Male,2021,85759,98522,116769
+South Asia,Male,2022,80443,94188,114229
+East Asia and Pacific,Female,1990,112603,130350,143517
+East Asia and Pacific,Female,1991,109398,126468,138858
+East Asia and Pacific,Female,1992,104627,121157,133252
+East Asia and Pacific,Female,1993,101139,116860,129133
+East Asia and Pacific,Female,1994,97424,112389,124615
+East Asia and Pacific,Female,1995,95813,110110,122452
+East Asia and Pacific,Female,1996,91260,104798,117306
+East Asia and Pacific,Female,1997,86056,98903,111054
+East Asia and Pacific,Female,1998,81313,93497,105311
+East Asia and Pacific,Female,1999,76352,87830,98884
+East Asia and Pacific,Female,2000,71810,82547,92859
+East Asia and Pacific,Female,2001,67560,77483,86650
+East Asia and Pacific,Female,2002,63562,72652,80744
+East Asia and Pacific,Female,2003,57763,66051,72958
+East Asia and Pacific,Female,2004,69829,77381,84480
+East Asia and Pacific,Female,2005,51144,57651,62791
+East Asia and Pacific,Female,2006,48588,54023,58397
+East Asia and Pacific,Female,2007,46689,50961,54842
+East Asia and Pacific,Female,2008,60132,69258,79597
+East Asia and Pacific,Female,2009,42432,45613,48959
+East Asia and Pacific,Female,2010,40398,43297,46625
+East Asia and Pacific,Female,2011,39105,41907,45390
+East Asia and Pacific,Female,2012,36772,39540,43297
+East Asia and Pacific,Female,2013,36179,39074,43132
+East Asia and Pacific,Female,2014,33819,36968,41424
+East Asia and Pacific,Female,2015,32469,35902,40801
+East Asia and Pacific,Female,2016,31269,35012,40377
+East Asia and Pacific,Female,2017,30230,34274,40210
+East Asia and Pacific,Female,2018,29297,33603,40120
+East Asia and Pacific,Female,2019,28278,32864,39998
+East Asia and Pacific,Female,2020,27254,32158,39882
+East Asia and Pacific,Female,2021,26332,31418,39645
+East Asia and Pacific,Female,2022,25441,30743,39611
+East Asia and Pacific,Male,1990,148178,169627,187958
+East Asia and Pacific,Male,1991,146061,166406,183541
+East Asia and Pacific,Male,1992,142533,161989,178715
+East Asia and Pacific,Male,1993,139821,158708,175267
+East Asia and Pacific,Male,1994,137218,155167,171708
+East Asia and Pacific,Male,1995,136602,153568,170465
+East Asia and Pacific,Male,1996,132440,148463,165231
+East Asia and Pacific,Male,1997,126797,141986,158126
+East Asia and Pacific,Male,1998,121224,135772,150912
+East Asia and Pacific,Male,1999,115432,129156,143578
+East Asia and Pacific,Male,2000,109923,122765,136120
+East Asia and Pacific,Male,2001,104372,116295,128337
+East Asia and Pacific,Male,2002,98946,109744,120446
+East Asia and Pacific,Male,2003,91798,101618,110878
+East Asia and Pacific,Male,2004,100533,109713,118584
+East Asia and Pacific,Male,2005,82085,89786,96571
+East Asia and Pacific,Male,2006,78171,84783,90779
+East Asia and Pacific,Male,2007,74971,80626,86095
+East Asia and Pacific,Male,2008,86246,96594,107777
+East Asia and Pacific,Male,2009,68652,73382,78378
+East Asia and Pacific,Male,2010,65671,70223,75421
+East Asia and Pacific,Male,2011,63405,67957,73606
+East Asia and Pacific,Male,2012,60314,64899,71134
+East Asia and Pacific,Male,2013,58861,63805,70668
+East Asia and Pacific,Male,2014,55723,61140,68855
+East Asia and Pacific,Male,2015,53599,59580,68153
+East Asia and Pacific,Male,2016,51598,58164,67636
+East Asia and Pacific,Male,2017,49819,57023,67513
+East Asia and Pacific,Male,2018,48200,55941,67724
+East Asia and Pacific,Male,2019,46628,54823,67452
+East Asia and Pacific,Male,2020,44964,53709,67409
+East Asia and Pacific,Male,2021,43259,52400,67013
+East Asia and Pacific,Male,2022,41797,51188,66705
+Latin America and Caribbean,Female,1990,24861,25480,26217
+Latin America and Caribbean,Female,1991,23906,24497,25186
+Latin America and Caribbean,Female,1992,23134,23694,24372
+Latin America and Caribbean,Female,1993,22474,23010,23678
+Latin America and Caribbean,Female,1994,21906,22438,23086
+Latin America and Caribbean,Female,1995,21399,21917,22539
+Latin America and Caribbean,Female,1996,20940,21450,22053
+Latin America and Caribbean,Female,1997,20471,20964,21543
+Latin America and Caribbean,Female,1998,22717,23393,24202
+Latin America and Caribbean,Female,1999,19589,20058,20607
+Latin America and Caribbean,Female,2000,19165,19627,20168
+Latin America and Caribbean,Female,2001,18900,19357,19886
+Latin America and Caribbean,Female,2002,18390,18850,19372
+Latin America and Caribbean,Female,2003,18033,18490,19014
+Latin America and Caribbean,Female,2004,18061,18566,19150
+Latin America and Caribbean,Female,2005,17625,18068,18601
+Latin America and Caribbean,Female,2006,17048,17498,18040
+Latin America and Caribbean,Female,2007,16699,17147,17702
+Latin America and Caribbean,Female,2008,16277,16729,17296
+Latin America and Caribbean,Female,2009,15866,16323,16897
+Latin America and Caribbean,Female,2010,23472,25945,29158
+Latin America and Caribbean,Female,2011,14772,15262,15865
+Latin America and Caribbean,Female,2012,14266,14764,15388
+Latin America and Caribbean,Female,2013,13803,14310,14957
+Latin America and Caribbean,Female,2014,13408,13934,14608
+Latin America and Caribbean,Female,2015,13019,13589,14301
+Latin America and Caribbean,Female,2016,12748,13340,14086
+Latin America and Caribbean,Female,2017,12522,13157,13942
+Latin America and Caribbean,Female,2018,12241,12894,13728
+Latin America and Caribbean,Female,2019,11848,12535,13422
+Latin America and Caribbean,Female,2020,11573,12292,13237
+Latin America and Caribbean,Female,2021,11538,12384,13474
+Latin America and Caribbean,Female,2022,11216,11974,13026
+Latin America and Caribbean,Male,1990,33854,34598,35458
+Latin America and Caribbean,Male,1991,32904,33608,34418
+Latin America and Caribbean,Male,1992,31934,32606,33389
+Latin America and Caribbean,Male,1993,31064,31707,32473
+Latin America and Caribbean,Male,1994,30249,30878,31621
+Latin America and Caribbean,Male,1995,29540,30158,30863
+Latin America and Caribbean,Male,1996,28877,29479,30151
+Latin America and Caribbean,Male,1997,28272,28860,29508
+Latin America and Caribbean,Male,1998,30216,30987,31864
+Latin America and Caribbean,Male,1999,27107,27668,28289
+Latin America and Caribbean,Male,2000,26565,27109,27725
+Latin America and Caribbean,Male,2001,26116,26651,27259
+Latin America and Caribbean,Male,2002,25459,25993,26597
+Latin America and Caribbean,Male,2003,24955,25479,26087
+Latin America and Caribbean,Male,2004,24820,25386,26047
+Latin America and Caribbean,Male,2005,24227,24751,25362
+Latin America and Caribbean,Male,2006,23536,24068,24692
+Latin America and Caribbean,Male,2007,23013,23561,24187
+Latin America and Caribbean,Male,2008,22461,23015,23664
+Latin America and Caribbean,Male,2009,21835,22399,23082
+Latin America and Caribbean,Male,2010,27351,29463,32159
+Latin America and Caribbean,Male,2011,20493,21096,21827
+Latin America and Caribbean,Male,2012,19852,20491,21259
+Latin America and Caribbean,Male,2013,19215,19890,20696
+Latin America and Caribbean,Male,2014,18596,19299,20148
+Latin America and Caribbean,Male,2015,18032,18776,19667
+Latin America and Caribbean,Male,2016,17562,18342,19289
+Latin America and Caribbean,Male,2017,17200,18013,19017
+Latin America and Caribbean,Male,2018,16756,17615,18685
+Latin America and Caribbean,Male,2019,16277,17155,18309
+Latin America and Caribbean,Male,2020,15955,16853,18087
+Latin America and Caribbean,Male,2021,15828,16842,18223
+Latin America and Caribbean,Male,2022,15502,16451,17863
+North America,Female,1990,3512,3588,3664
+North America,Female,1991,3473,3547,3623
+North America,Female,1992,3481,3556,3634
+North America,Female,1993,3536,3612,3686
+North America,Female,1994,3521,3595,3673
+North America,Female,1995,3519,3596,3677
+North America,Female,1996,3509,3586,3664
+North America,Female,1997,3479,3553,3631
+North America,Female,1998,3395,3467,3542
+North America,Female,1999,3328,3400,3475
+North America,Female,2000,3247,3323,3398
+North America,Female,2001,3177,3251,3323
+North America,Female,2002,3097,3165,3236
+North America,Female,2003,2999,3066,3135
+North America,Female,2004,2929,2998,3068
+North America,Female,2005,2836,2903,2975
+North America,Female,2006,2734,2799,2865
+North America,Female,2007,2651,2713,2778
+North America,Female,2008,2576,2635,2694
+North America,Female,2009,2505,2563,2623
+North America,Female,2010,2435,2496,2555
+North America,Female,2011,2376,2435,2493
+North America,Female,2012,2367,2425,2482
+North America,Female,2013,2380,2436,2493
+North America,Female,2014,2379,2434,2490
+North America,Female,2015,2418,2475,2535
+North America,Female,2016,2463,2522,2581
+North America,Female,2017,2487,2545,2608
+North America,Female,2018,2545,2607,2670
+North America,Female,2019,2551,2620,2688
+North America,Female,2020,2555,2646,2743
+North America,Female,2021,2540,2659,2782
+North America,Female,2022,2495,2652,2819
+North America,Male,1990,5530,5642,5752
+North America,Male,1991,5563,5674,5785
+North America,Male,1992,5532,5645,5762
+North America,Male,1993,5468,5579,5693
+North America,Male,1994,5450,5559,5673
+North America,Male,1995,5373,5484,5602
+North America,Male,1996,5264,5370,5482
+North America,Male,1997,5136,5238,5347
+North America,Male,1998,5030,5128,5230
+North America,Male,1999,4874,4976,5076
+North America,Male,2000,4724,4829,4931
+North America,Male,2001,4579,4679,4775
+North America,Male,2002,4448,4544,4641
+North America,Male,2003,4342,4432,4527
+North America,Male,2004,4182,4272,4367
+North America,Male,2005,4030,4121,4216
+North America,Male,2006,3878,3964,4055
+North America,Male,2007,3713,3795,3877
+North America,Male,2008,3563,3639,3714
+North America,Male,2009,3434,3512,3585
+North America,Male,2010,3352,3428,3502
+North America,Male,2011,3310,3384,3460
+North America,Male,2012,3280,3356,3429
+North America,Male,2013,3286,3359,3430
+North America,Male,2014,3334,3406,3477
+North America,Male,2015,3349,3420,3494
+North America,Male,2016,3366,3439,3514
+North America,Male,2017,3421,3497,3576
+North America,Male,2018,3437,3515,3592
+North America,Male,2019,3493,3576,3662
+North America,Male,2020,3519,3630,3743
+North America,Male,2021,3504,3651,3802
+North America,Male,2022,3446,3647,3862
+Europe and Central Asia,Female,1990,19875,20726,21725
+Europe and Central Asia,Female,1991,19959,20790,21777
+Europe and Central Asia,Female,1992,20960,21777,22734
+Europe and Central Asia,Female,1993,20916,21720,22686
+Europe and Central Asia,Female,1994,20095,20885,21803
+Europe and Central Asia,Female,1995,19851,20612,21508
+Europe and Central Asia,Female,1996,19368,20095,20969
+Europe and Central Asia,Female,1997,18501,19205,20028
+Europe and Central Asia,Female,1998,17709,18376,19150
+Europe and Central Asia,Female,1999,18359,19227,20232
+Europe and Central Asia,Female,2000,16019,16614,17284
+Europe and Central Asia,Female,2001,15253,15786,16410
+Europe and Central Asia,Female,2002,14445,14927,15486
+Europe and Central Asia,Female,2003,13615,14044,14536
+Europe and Central Asia,Female,2004,12848,13211,13630
+Europe and Central Asia,Female,2005,12112,12425,12772
+Europe and Central Asia,Female,2006,11434,11689,11978
+Europe and Central Asia,Female,2007,10812,11014,11230
+Europe and Central Asia,Female,2008,10250,10405,10569
+Europe and Central Asia,Female,2009,9726,9841,9963
+Europe and Central Asia,Female,2010,9194,9288,9391
+Europe and Central Asia,Female,2011,8691,8780,8871
+Europe and Central Asia,Female,2012,8243,8327,8409
+Europe and Central Asia,Female,2013,7898,7978,8061
+Europe and Central Asia,Female,2014,7629,7708,7791
+Europe and Central Asia,Female,2015,7449,7528,7609
+Europe and Central Asia,Female,2016,7289,7361,7450
+Europe and Central Asia,Female,2017,7133,7217,7295
+Europe and Central Asia,Female,2018,6993,7072,7163
+Europe and Central Asia,Female,2019,6856,6938,7040
+Europe and Central Asia,Female,2020,6769,6876,6989
+Europe and Central Asia,Female,2021,6634,6758,6903
+Europe and Central Asia,Female,2022,6725,6888,7073
+Europe and Central Asia,Male,1990,31404,32682,34223
+Europe and Central Asia,Male,1991,31539,32784,34262
+Europe and Central Asia,Male,1992,32378,33578,35005
+Europe and Central Asia,Male,1993,31988,33148,34536
+Europe and Central Asia,Male,1994,30743,31868,33200
+Europe and Central Asia,Male,1995,30119,31187,32453
+Europe and Central Asia,Male,1996,29151,30184,31407
+Europe and Central Asia,Male,1997,27992,28982,30131
+Europe and Central Asia,Male,1998,26654,27582,28671
+Europe and Central Asia,Male,1999,26576,27647,28911
+Europe and Central Asia,Male,2000,24098,24907,25830
+Europe and Central Asia,Male,2001,22755,23486,24325
+Europe and Central Asia,Male,2002,21356,22014,22766
+Europe and Central Asia,Male,2003,20001,20584,21231
+Europe and Central Asia,Male,2004,18727,19218,19771
+Europe and Central Asia,Male,2005,17514,17925,18380
+Europe and Central Asia,Male,2006,16401,16733,17094
+Europe and Central Asia,Male,2007,15412,15672,15945
+Europe and Central Asia,Male,2008,14494,14688,14895
+Europe and Central Asia,Male,2009,13651,13794,13947
+Europe and Central Asia,Male,2010,12907,13028,13149
+Europe and Central Asia,Male,2011,12266,12380,12492
+Europe and Central Asia,Male,2012,11767,11873,11976
+Europe and Central Asia,Male,2013,11374,11477,11578
+Europe and Central Asia,Male,2014,11080,11180,11278
+Europe and Central Asia,Male,2015,10791,10885,10985
+Europe and Central Asia,Male,2016,10539,10634,10730
+Europe and Central Asia,Male,2017,10338,10436,10533
+Europe and Central Asia,Male,2018,10147,10248,10350
+Europe and Central Asia,Male,2019,9972,10080,10194
+Europe and Central Asia,Male,2020,9817,9942,10086
+Europe and Central Asia,Male,2021,9605,9762,9950
+Europe and Central Asia,Male,2022,9679,9899,10149
+Eastern Europe and Central Asia,Female,1990,14862,15709,16714
+Eastern Europe and Central Asia,Female,1991,15094,15927,16913
+Eastern Europe and Central Asia,Female,1992,16269,17083,18041
+Eastern Europe and Central Asia,Female,1993,16403,17209,18167
+Eastern Europe and Central Asia,Female,1994,15760,16547,17464
+Eastern Europe and Central Asia,Female,1995,15688,16447,17344
+Eastern Europe and Central Asia,Female,1996,15370,16102,16969
+Eastern Europe and Central Asia,Female,1997,14681,15384,16200
+Eastern Europe and Central Asia,Female,1998,14060,14726,15496
+Eastern Europe and Central Asia,Female,1999,14878,15747,16749
+Eastern Europe and Central Asia,Female,2000,12703,13294,13965
+Eastern Europe and Central Asia,Female,2001,12084,12620,13237
+Eastern Europe and Central Asia,Female,2002,11419,11897,12455
+Eastern Europe and Central Asia,Female,2003,10719,11143,11633
+Eastern Europe and Central Asia,Female,2004,10073,10440,10860
+Eastern Europe and Central Asia,Female,2005,9462,9772,10118
+Eastern Europe and Central Asia,Female,2006,8898,9154,9438
+Eastern Europe and Central Asia,Female,2007,8380,8581,8794
+Eastern Europe and Central Asia,Female,2008,7911,8067,8224
+Eastern Europe and Central Asia,Female,2009,7469,7582,7697
+Eastern Europe and Central Asia,Female,2010,7014,7107,7201
+Eastern Europe and Central Asia,Female,2011,6580,6661,6750
+Eastern Europe and Central Asia,Female,2012,6192,6270,6350
+Eastern Europe and Central Asia,Female,2013,5896,5971,6051
+Eastern Europe and Central Asia,Female,2014,5672,5746,5824
+Eastern Europe and Central Asia,Female,2015,5532,5607,5684
+Eastern Europe and Central Asia,Female,2016,5406,5478,5560
+Eastern Europe and Central Asia,Female,2017,5282,5360,5434
+Eastern Europe and Central Asia,Female,2018,5172,5248,5333
+Eastern Europe and Central Asia,Female,2019,5067,5150,5240
+Eastern Europe and Central Asia,Female,2020,5009,5111,5215
+Eastern Europe and Central Asia,Female,2021,4899,5020,5153
+Eastern Europe and Central Asia,Female,2022,5016,5176,5352
+Eastern Europe and Central Asia,Male,1990,23718,24989,26528
+Eastern Europe and Central Asia,Male,1991,24128,25373,26835
+Eastern Europe and Central Asia,Male,1992,25273,26476,27897
+Eastern Europe and Central Asia,Male,1993,25171,26337,27734
+Eastern Europe and Central Asia,Male,1994,24220,25341,26669
+Eastern Europe and Central Asia,Male,1995,23873,24945,26216
+Eastern Europe and Central Asia,Male,1996,23201,24228,25453
+Eastern Europe and Central Asia,Male,1997,22327,23313,24458
+Eastern Europe and Central Asia,Male,1998,21274,22197,23285
+Eastern Europe and Central Asia,Male,1999,21467,22538,23792
+Eastern Europe and Central Asia,Male,2000,19254,20057,20983
+Eastern Europe and Central Asia,Male,2001,18153,18884,19724
+Eastern Europe and Central Asia,Male,2002,16993,17648,18401
+Eastern Europe and Central Asia,Male,2003,15860,16437,17085
+Eastern Europe and Central Asia,Male,2004,14802,15292,15844
+Eastern Europe and Central Asia,Male,2005,13798,14208,14657
+Eastern Europe and Central Asia,Male,2006,12876,13204,13565
+Eastern Europe and Central Asia,Male,2007,12064,12319,12594
+Eastern Europe and Central Asia,Male,2008,11301,11491,11694
+Eastern Europe and Central Asia,Male,2009,10595,10735,10883
+Eastern Europe and Central Asia,Male,2010,9968,10084,10200
+Eastern Europe and Central Asia,Male,2011,9433,9539,9648
+Eastern Europe and Central Asia,Male,2012,9028,9128,9228
+Eastern Europe and Central Asia,Male,2013,8717,8815,8911
+Eastern Europe and Central Asia,Male,2014,8488,8584,8677
+Eastern Europe and Central Asia,Male,2015,8260,8352,8444
+Eastern Europe and Central Asia,Male,2016,8060,8151,8243
+Eastern Europe and Central Asia,Male,2017,7910,8002,8094
+Eastern Europe and Central Asia,Male,2018,7765,7859,7955
+Eastern Europe and Central Asia,Male,2019,7630,7731,7840
+Eastern Europe and Central Asia,Male,2020,7512,7632,7767
+Eastern Europe and Central Asia,Male,2021,7327,7485,7665
+Eastern Europe and Central Asia,Male,2022,7435,7651,7891
+Western Europe,Female,1990,4966,5016,5068
+Western Europe,Female,1991,4817,4862,4918
+Western Europe,Female,1992,4644,4693,4739
+Western Europe,Female,1993,4469,4510,4561
+Western Europe,Female,1994,4293,4337,4383
+Western Europe,Female,1995,4122,4164,4209
+Western Europe,Female,1996,3951,3992,4038
+Western Europe,Female,1997,3780,3820,3864
+Western Europe,Female,1998,3609,3649,3691
+Western Europe,Female,1999,3442,3479,3521
+Western Europe,Female,2000,3282,3319,3358
+Western Europe,Female,2001,3133,3165,3207
+Western Europe,Female,2002,2994,3029,3065
+Western Europe,Female,2003,2864,2900,2934
+Western Europe,Female,2004,2739,2770,2805
+Western Europe,Female,2005,2620,2653,2685
+Western Europe,Female,2006,2505,2535,2568
+Western Europe,Female,2007,2403,2433,2463
+Western Europe,Female,2008,2313,2338,2371
+Western Europe,Female,2009,2233,2259,2291
+Western Europe,Female,2010,2157,2181,2213
+Western Europe,Female,2011,2089,2119,2144
+Western Europe,Female,2012,2029,2057,2083
+Western Europe,Female,2013,1979,2007,2032
+Western Europe,Female,2014,1935,1962,1987
+Western Europe,Female,2015,1896,1921,1948
+Western Europe,Female,2016,1860,1883,1913
+Western Europe,Female,2017,1829,1857,1883
+Western Europe,Female,2018,1797,1824,1853
+Western Europe,Female,2019,1764,1788,1824
+Western Europe,Female,2020,1733,1765,1800
+Western Europe,Female,2021,1704,1738,1780
+Western Europe,Female,2022,1673,1712,1764
+Western Europe,Male,1990,7626,7692,7764
+Western Europe,Male,1991,7348,7410,7482
+Western Europe,Male,1992,7046,7101,7168
+Western Europe,Male,1993,6751,6810,6874
+Western Europe,Male,1994,6467,6526,6584
+Western Europe,Male,1995,6184,6241,6297
+Western Europe,Male,1996,5900,5955,6009
+Western Europe,Male,1997,5615,5668,5720
+Western Europe,Male,1998,5333,5384,5437
+Western Europe,Male,1999,5062,5108,5163
+Western Europe,Male,2000,4801,4849,4898
+Western Europe,Male,2001,4557,4601,4650
+Western Europe,Male,2002,4322,4365,4410
+Western Europe,Male,2003,4101,4146,4187
+Western Europe,Male,2004,3885,3925,3969
+Western Europe,Male,2005,3680,3716,3760
+Western Europe,Male,2006,3491,3528,3569
+Western Europe,Male,2007,3315,3352,3389
+Western Europe,Male,2008,3161,3196,3233
+Western Europe,Male,2009,3027,3058,3094
+Western Europe,Male,2010,2912,2944,2976
+Western Europe,Male,2011,2806,2841,2872
+Western Europe,Male,2012,2712,2745,2775
+Western Europe,Male,2013,2632,2662,2694
+Western Europe,Male,2014,2567,2596,2628
+Western Europe,Male,2015,2505,2533,2566
+Western Europe,Male,2016,2451,2483,2513
+Western Europe,Male,2017,2401,2434,2464
+Western Europe,Male,2018,2357,2389,2423
+Western Europe,Male,2019,2314,2349,2384
+Western Europe,Male,2020,2274,2310,2354
+Western Europe,Male,2021,2236,2277,2327
+Western Europe,Male,2022,2196,2248,2307
+World,Female,1990,734375,769287,795559
+World,Female,1991,745787,777191,802397
+World,Female,1992,722404,749960,774068
+World,Female,1993,721110,745871,769179
+World,Female,1994,747038,771995,798908
+World,Female,1995,700664,721969,745010
+World,Female,1996,688513,708463,731439
+World,Female,1997,673120,692251,714959
+World,Female,1998,657936,676204,698046
+World,Female,1999,635266,652949,674076
+World,Female,2000,614458,631100,651611
+World,Female,2001,596265,612607,632104
+World,Female,2002,579243,594845,613308
+World,Female,2003,564434,579583,597293
+World,Female,2004,565125,579830,597267
+World,Female,2005,541864,555591,572182
+World,Female,2006,518478,531558,547319
+World,Female,2007,504104,516695,532254
+World,Female,2008,506761,523510,541638
+World,Female,2009,474741,486939,502119
+World,Female,2010,468856,481401,497390
+World,Female,2011,445458,457756,473721
+World,Female,2012,432623,445276,461837
+World,Female,2013,421367,434748,452269
+World,Female,2014,408310,422816,441655
+World,Female,2015,398432,413954,434089
+World,Female,2016,386032,402637,424590
+World,Female,2017,376805,395060,418856
+World,Female,2018,368481,388394,414563
+World,Female,2019,358449,379739,408557
+World,Female,2020,349097,371920,403681
+World,Female,2021,342028,366101,401018
+World,Female,2022,333836,359867,397643
+World,Male,1990,818652,858581,888954
+World,Male,1991,832285,867846,896847
+World,Male,1992,809814,841521,869350
+World,Male,1993,809626,838272,865491
+World,Male,1994,836420,864082,893579
+World,Male,1995,789433,813429,840086
+World,Male,1996,776570,799008,825175
+World,Male,1997,760780,782221,807856
+World,Male,1998,745432,765977,791457
+World,Male,1999,723056,742885,766929
+World,Male,2000,703020,721947,744736
+World,Male,2001,685137,703362,724811
+World,Male,2002,667901,685399,705624
+World,Male,2003,652579,669110,688322
+World,Male,2004,651729,667569,686613
+World,Male,2005,627676,642850,660730
+World,Male,2006,606330,620630,638130
+World,Male,2007,592726,606725,623947
+World,Male,2008,594712,612769,632687
+World,Male,2009,564643,578513,595421
+World,Male,2010,557881,571818,589363
+World,Male,2011,537360,551466,569589
+World,Male,2012,524690,539649,558436
+World,Male,2013,513685,529481,549379
+World,Male,2014,501053,517924,539699
+World,Male,2015,490822,509161,532680
+World,Male,2016,478432,498027,523833
+World,Male,2017,468276,490089,518384
+World,Male,2018,458883,482309,513684
+World,Male,2019,447032,472550,506903
+World,Male,2020,436297,463487,501408
+World,Male,2021,427684,456410,498727
+World,Male,2022,418633,449203,495187
